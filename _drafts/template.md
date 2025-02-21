@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2025-02-24 07:00:00 -0800
+date: 2025-03-03 07:00:00 -0800
 categories: weekly
 ---
 
@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Last changed: February 14, 2025 - Events
+Last changed: February 21, 2025 - Events
 
 News Sources
 
@@ -319,17 +319,21 @@ text.
 
 ## Upcoming Events
 
-[![MicroPython Meetup](../assets/2025mmdd/2025mmddmp.png)](https://www.meetup.com/MicroPython-Meetup/)
-
-The next MicroPython Meetup in Melbourne will be on January 22nd – [Meetup](https://www.meetup.com/micropython-meetup/events). You can see recordings of previous meetings on [YouTube](https://www.youtube.com/@MicroPythonOfficial). 
-
 [![Embedded World 2025](../assets/2025mmdd/ew25.jpg)](https://www.embedded-world.de/en)
 
 Embedded World 2025 will be held March 11 to 13, 2025 in Nuremberg, Germany. [Raspberry Pi](https://x.com/Raspberry_Pi/status/1889333638417768590) will be there - [Embedded World](https://www.embedded-world.de/en).
 
+[![MicroPython Meetup](../assets/2025mmdd/2025mmddmp.png)](https://www.meetup.com/MicroPython-Meetup/)
+
+The next MicroPython Meetup in Melbourne will be on March 26th – [Meetup](https://www.meetup.com/micropython-meetup/events). You can see recordings of previous meetings on [YouTube](https://www.youtube.com/@MicroPythonOfficial). 
+
 [![PyCon US 2025](../assets/2025mmdd/pyconus25.jpg)](https://us.pycon.org/2025/)
 
 The community is coming back to Pittsburgh, Pennsylvania for PyCon US 2025 May 14 - May 22, 2025 - [us.pycon.org](https://us.pycon.org/2025/).
+
+[![KiCad Conferences](../assets/2025mmdd/2025mmddkicon.jpg)](https://kicon.kicad.org/)
+
+KiCad conferences (KiCon) to be held this year include 28 - 30 May 2025 in San Diego, California, 19 - 20 Sept 2024 in Bochum, Germany, and to be determined in Asia - [KiCad](https://kicon.kicad.org/).
 
 [![Open Hardware Summit 2025](../assets/2025mmdd/ohs25.jpg)](https://www.eventbrite.com/e/open-hardware-summit-2025-tickets-1067611086499)
 
