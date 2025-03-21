@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2025-03-24 07:00:00 -0800
+date: 2025-03-31 07:00:00 -0800
 categories: weekly
 ---
 
@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Last changed: March 14, 2025 (events)
+Last changed: March 21, 2025 (events)
 
 News Sources
 
@@ -319,13 +319,13 @@ text.
 
 ## Upcoming Events
 
-[![MicroPython Meetup](../assets/2025mmdd/2025mmddmp.png)](https://www.meetup.com/MicroPython-Meetup/)
-
-The next MicroPython Meetup in Melbourne will be on March 26th – [Meetup](https://www.meetup.com/micropython-meetup/events). You can see recordings of previous meetings on [YouTube](https://www.youtube.com/@MicroPythonOfficial). 
-
 [![Maker Faire+City of STEM](../assets/2025mmdd/2025mmddlamf.jpg)](https://losangeles.makerfaire.com/)
 
 City of STEM and Maker Faire Los Angeles, California is being held April 12, 2025 - [MakerFaire](https://losangeles.makerfaire.com/).
+
+[![MicroPython Meetup](../assets/2025mmdd/2025mmddmp.png)](https://www.meetup.com/MicroPython-Meetup/)
+
+The next MicroPython Meetup in Melbourne will be on April 23rd – [Meetup](https://www.meetup.com/micropython-meetup/events). You can see recordings of previous meetings on [YouTube](https://www.youtube.com/@MicroPythonOfficial). 
 
 [![PyCon US 2025](../assets/2025mmdd/pyconus25.jpg)](https://us.pycon.org/2025/)
 
@@ -338,6 +338,10 @@ KiCad conferences (KiCon) to be held this year include 28 - 30 May 2025 in San D
 [![Open Hardware Summit 2025](../assets/2025mmdd/ohs25.jpg)](https://www.eventbrite.com/e/open-hardware-summit-2025-tickets-1067611086499)
 
 Open Hardware Summit 2025 is being held May 30 @ 10am - May 31 @ 6pm GMT+1 in Edinburgh, Scotland - [Eventbrite](https://www.eventbrite.com/e/open-hardware-summit-2025-tickets-1067611086499).
+
+[![PyCon UK 2025](../assets/2025mmdd/pyconuk25.jpg)](https://2025.pyconuk.org/)
+
+PyCon UK will be at CONTACT in Manchester from Friday 19th September to Monday 22nd September 2025 - [PyCon UK 2025](https://2025.pyconuk.org/).
 
 **Send Your Events In**
 
