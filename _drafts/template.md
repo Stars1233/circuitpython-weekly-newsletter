@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Last changed: March 21, 2025 (events)
+Last changed: April 11, 2025 (events)
 
 News Sources
 
@@ -299,12 +299,6 @@ text.
 
 text.
 
-**Jeff**
-
-[![Jeff](../assets/2025mmdd/2025mmddjeff.jpg)](https://www.circuitpython.org/)
-
-text.
-
 **Scott**
 
 [![Scott](../assets/2025mmdd/2025mmddscott.jpg)](https://www.circuitpython.org/)
@@ -338,6 +332,10 @@ KiCad conferences (KiCon) to be held this year include 28 - 30 May 2025 in San D
 [![Open Hardware Summit 2025](../assets/2025mmdd/ohs25.jpg)](https://www.eventbrite.com/e/open-hardware-summit-2025-tickets-1067611086499)
 
 Open Hardware Summit 2025 is being held May 30 @ 10am - May 31 @ 6pm GMT+1 in Edinburgh, Scotland - [Eventbrite](https://www.eventbrite.com/e/open-hardware-summit-2025-tickets-1067611086499).
+
+[![PyOhio 2025](../assets/2025mmdd/pyohio25.jpg)](https://www.pyohio.org/2025/)
+
+PyOhio 2025 will be held Saturday & Sunday July 26 & 27, 2025 at the Cleveland State University Student Center in Cleveland, Ohio - [PyOhio 2025](https://www.pyohio.org/2025/).
 
 [![PyCon UK 2025](../assets/2025mmdd/pyconuk25.jpg)](https://2025.pyconuk.org/)
 
