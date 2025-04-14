@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Last changed: April 11, 2025 (events)
+Last changed: April 14, 2025 (events, Sources)
 
 News Sources
 
