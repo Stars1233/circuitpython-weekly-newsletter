@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2025-04-21 07:00:00 -0800
+date: 2025-04-28 07:00:00 -0800
 categories: weekly
 ---
 
@@ -313,17 +313,13 @@ text.
 
 ## Upcoming Events
 
-[![Maker Faire+City of STEM](../assets/2025mmdd/2025mmddlamf.jpg)](https://losangeles.makerfaire.com/)
-
-City of STEM and Maker Faire Los Angeles, California is being held April 12, 2025 - [MakerFaire](https://losangeles.makerfaire.com/).
-
-[![MicroPython Meetup](../assets/2025mmdd/2025mmddmp.png)](https://www.meetup.com/MicroPython-Meetup/)
-
-The next MicroPython Meetup in Melbourne will be on April 23rd – [Meetup](https://www.meetup.com/micropython-meetup/events). You can see recordings of previous meetings on [YouTube](https://www.youtube.com/@MicroPythonOfficial). 
-
 [![PyCon US 2025](../assets/2025mmdd/pyconus25.jpg)](https://us.pycon.org/2025/)
 
 The community is coming back to Pittsburgh, Pennsylvania for PyCon US 2025 May 14 - May 22, 2025 - [us.pycon.org](https://us.pycon.org/2025/).
+
+[![MicroPython Meetup](../assets/2025mmdd/2025mmddmp.png)](https://www.meetup.com/MicroPython-Meetup/)
+
+The next MicroPython Meetup in Melbourne will be on May 28th – [Meetup](https://www.meetup.com/micropython-meetup/events). You can see recordings of previous meetings on [YouTube](https://www.youtube.com/@MicroPythonOfficial). 
 
 [![KiCad Conferences](../assets/2025mmdd/2025mmddkicon.jpg)](https://kicon.kicad.org/)
 
