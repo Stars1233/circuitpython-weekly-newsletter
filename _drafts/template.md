@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2025-05-12 07:00:00 -0800
+date: 2025-05-19 07:00:00 -0800
 categories: weekly
 ---
 
@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Last changed: April 14, 2025 (events, Sources)
+Last changed: May 9, 2025 (Deep Dive)
 
 News Sources
 
@@ -86,7 +86,7 @@ Python on Hardware is all about building a cooperative ecosphere which allows co
 
 [![Deep Dive](../assets/2025mmdd/2025mmdddeepdive.jpg)](link)
 
-[Last Friday](link), Scott streamed work on {subject}.
+[Last Friday](link), Tim streamed work on {subject}.
 
 You can see the latest video and past videos on the Adafruit YouTube channel under the Deep Dive playlist - [YouTube](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXBHlu9msoXq2jQN4JpCk8A).
 
