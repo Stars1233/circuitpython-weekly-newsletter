@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2025-05-19 07:00:00 -0800
+date: 2025-06-02 07:00:00 -0800
 categories: weekly
 ---
 
@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Last changed: May 9, 2025 (Deep Dive)
+Last changed: May 21, 2025 (Events)
 
 News Sources
 
@@ -313,10 +313,6 @@ text.
 
 ## Upcoming Events
 
-[![PyCon US 2025](../assets/2025mmdd/pyconus25.jpg)](https://us.pycon.org/2025/)
-
-The community is coming back to Pittsburgh, Pennsylvania for PyCon US 2025 May 14 - May 22, 2025 - [us.pycon.org](https://us.pycon.org/2025/).
-
 [![MicroPython Meetup](../assets/2025mmdd/2025mmddmp.png)](https://www.meetup.com/MicroPython-Meetup/)
 
 The next MicroPython Meetup in Melbourne will be on May 28th – [Meetup](https://www.meetup.com/micropython-meetup/events). You can see recordings of previous meetings on [YouTube](https://www.youtube.com/@MicroPythonOfficial). 
@@ -336,6 +332,10 @@ PyOhio 2025 will be held Saturday & Sunday July 26 & 27, 2025 at the Cleveland S
 [![PyCon UK 2025](../assets/2025mmdd/pyconuk25.jpg)](https://2025.pyconuk.org/)
 
 PyCon UK will be at CONTACT in Manchester from Friday 19th September to Monday 22nd September 2025 - [PyCon UK 2025](https://2025.pyconuk.org/).
+
+[![Maker Faire Bay Area 2025](../assets/2025mmdd/mfba25.jpg)](https://bayarea.makerfaire.com/)
+
+Maker Faire Bay Area 2025 will be Sep 26 – 28, 2025 in Vallejo, California, US - [Maker Faire](https://bayarea.makerfaire.com/).
 
 **Send Your Events In**
 
