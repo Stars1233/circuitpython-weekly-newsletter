@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Last changed: May 30, 2025 (Events)
+Last changed: June 5, 2025 (Discord count graphic)
 
 News Sources
 
@@ -361,7 +361,7 @@ Sign in with an existing account such as GitHub, Google or Facebook and start co
 
 ## NUMBER Thanks
 
-[![NUMBER THANKS](../assets/2025mmdd/38kdiscord.jpg)](https://adafru.it/discord)
+[![NUMBER THANKS](../assets/2025mmdd/39kdiscord.jpg)](https://adafru.it/discord)
 
 [![Adafruit Discord](https://discordapp.com/api/guilds/327254708534116352/embed.png?style=banner3)](https://discord.gg/adafruit)
 
