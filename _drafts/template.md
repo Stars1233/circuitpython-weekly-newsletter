@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2025-06-09 07:00:00 -0800
+date: 2025-06-16 07:00:00 -0800
 categories: weekly
 ---
 
@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Last changed: June 5, 2025 (Discord count graphic)
+Last changed: June 6, 2025 (Discord count graphic, spelling)
 
 News Sources
 
@@ -315,7 +315,7 @@ text.
 
 [![MicroPython Meetup](../assets/2025mmdd/2025mmddmp.png)](https://www.meetup.com/MicroPython-Meetup/)
 
-The next MicroPython Meetup in Melbourne will be on June 25thh – [Meetup](https://www.meetup.com/micropython-meetup/events). You can see recordings of previous meetings on [YouTube](https://www.youtube.com/@MicroPythonOfficial). 
+The next MicroPython Meetup in Melbourne will be on June 25th – [Meetup](https://www.meetup.com/micropython-meetup/events). You can see recordings of previous meetings on [YouTube](https://www.youtube.com/@MicroPythonOfficial). 
 
 [![PyOhio 2025](../assets/2025mmdd/pyohio25.jpg)](https://www.pyohio.org/2025/)
 
