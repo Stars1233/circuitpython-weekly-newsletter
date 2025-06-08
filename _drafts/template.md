@@ -273,13 +273,13 @@ The current number of CircuitPython libraries is **###**!
 
 **New Libraries**
 
-Here's this week's new CircuitPython libraries:
+Here are this week's new CircuitPython libraries:
 
 * [library](url)
 
 **Updated Libraries**
 
-Here's this week's updated CircuitPython libraries:
+Here are this week's updated CircuitPython libraries:
 
 * [library](url)
 
