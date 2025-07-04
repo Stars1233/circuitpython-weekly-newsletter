@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2025-07-07 07:00:00 -0800
+date: 2025-07-14 07:00:00 -0800
 categories: weekly
 ---
 
@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Last changed: June 27, 2025 (micropython meeting)
+Last changed: July 4, 2025 (remove CP show)
 
 News Sources
 
@@ -97,12 +97,6 @@ You can see the latest video and past videos on the Adafruit YouTube channel und
 John Park’s CircuitPython Parsec this week is on {subject} - [Adafruit Blog](link) and [YouTube](link).
 
 Catch all the episodes in the [YouTube playlist](https://www.youtube.com/playlist?list=PLjF7R1fz_OOWFqZfqW9jlvQSIUmwn9lWr).
-
-**The CircuitPython Show**
-
-[![The CircuitPython Show](../assets/2025mmdd/cpshow.jpg)](https://www.circuitpythonshow.com/@circuitpythonshow)
-
-In the latest episode of The CircuitPython Show, Paul... - [The CircuitPython Show](https://www.circuitpythonshow.com/@circuitpythonshow)
 
 **CircuitPython Weekly Meeting**
 
