@@ -239,7 +239,7 @@ Looking to add a new board to CircuitPython? It's highly encouraged! Adafruit ha
 
 [![New Learn Guides](../assets/2025mmdd/2025mmddlearn.jpg)](https://learn.adafruit.com/guides/latest)
 
-The Adafruit Learning System has over 3,000 free guides for learning skills and building projects including using Python.
+The Adafruit Learning System has over 3,200 free guides for learning skills and building projects including using Python.
 
 [title](url) from [name](url)
 
