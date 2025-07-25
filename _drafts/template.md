@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2025-07-21 07:00:00 -0800
+date: 2025-08-04 07:00:00 -0800
 categories: weekly
 ---
 
@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Last changed: July 24 add maker.io
+Last changed: July 25 - add events
 
 News Sources
 
@@ -308,6 +308,10 @@ text.
 
 ## Upcoming Events
 
+[![HOPE](../assets/2025mmdd/hope16.jpg)](https://hope.net/)
+
+HOPE_16 is a welcoming place for hackers of all types: makers, artists, educators, experimenters, tinkerers, and more! If you’re interested in playing with technology, coming up with new ideas, learning from others, and sharing your knowledge, then this is the place for you. August 15-17, 2025 at St. John’s University Queens, New York City US - [HOPE](https://hope.net/).
+
 [![MicroPython Meetup](../assets/2025mmdd/2025mmddmp.png)](https://www.meetup.com/MicroPython-Meetup/)
 
 The next MicroPython Meetup in Melbourne will be on July 23rd – [Meetup](https://www.meetup.com/micropython-meetup/events). You can see recordings of previous meetings on [YouTube](https://www.youtube.com/@MicroPythonOfficial). 
@@ -327,6 +331,10 @@ PyCon UK will be at CONTACT in Manchester from Friday 19th September to Monday 2
 [![Maker Faire Bay Area 2025](../assets/2025mmdd/mfba25.jpg)](https://bayarea.makerfaire.com/)
 
 Maker Faire Bay Area 2025 will be Sep 26 – 28, 2025 in Vallejo, California, US - [Maker Faire](https://bayarea.makerfaire.com/).
+
+[![PyLadiesCon](../assets/2025mmdd/pyladies25.jpg)](https://conference.pyladies.com/2025-pyladiescon-is-back/)
+
+PyLadiesCon returns December 5–7, 2025. 100% online conference designed for our global community. Talks, workshops, panels, and community fun – [PyLadies](https://conference.pyladies.com/2025-pyladiescon-is-back/).
 
 **Send Your Events In**
 
