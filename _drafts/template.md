@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2025-08-25 07:00:00 -0800
+date: 2025-09-01 07:00:00 -0800
 categories: weekly
 ---
 
@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Last changed: August 12 - event tweak
+Last changed: August 22 - event tweak
 
 News Sources
 
@@ -308,9 +308,9 @@ text.
 
 ## Upcoming Events
 
-[![MicroPython Meetup](../assets/2025mmdd/2025mmddmp.png)](https://www.meetup.com/MicroPython-Meetup/)
+[![PyCon AU](../assets/2025mmdd/pyconau25.jpg)](https://2025.pycon.org.au/)
 
-The next MicroPython Meetup in Melbourne will be on August 27th – [Meetup](https://www.meetup.com/micropython-meetup/events). You can see recordings of previous meetings on [YouTube](https://www.youtube.com/@MicroPythonOfficial). 
+PyCon AU will be held from Friday the 12th to Tuesday the 16th of September at Pullman Melbourne On The Park in Narrm/Melbourne, Australia - [pycon.org.au](https://2025.pycon.org.au/).
 
 [![KiCad Conferences](../assets/2025mmdd/2025mmddkicon.jpg)](https://kicon.kicad.org/)
 
@@ -323,6 +323,10 @@ PyCon UK will be at CONTACT in Manchester from Friday 19th September to Monday 2
 [![Maker Faire Bay Area 2025](../assets/2025mmdd/mfba25.jpg)](https://bayarea.makerfaire.com/)
 
 Maker Faire Bay Area 2025 will be Sep 26 – 28, 2025 in Vallejo, California, US - [Maker Faire](https://bayarea.makerfaire.com/).
+
+[![MicroPython Meetup](../assets/2025mmdd/2025mmddmp.png)](https://www.meetup.com/MicroPython-Meetup/)
+
+The next MicroPython Meetup in Melbourne will be on August 27th – [Meetup](https://www.meetup.com/micropython-meetup/events). You can see recordings of previous meetings on [YouTube](https://www.youtube.com/@MicroPythonOfficial). 
 
 [![PyLadiesCon](../assets/2025mmdd/pyladies25.jpg)](https://conference.pyladies.com/2025-pyladiescon-is-back/)
 
