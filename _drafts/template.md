@@ -328,6 +328,10 @@ Maker Faire Bay Area 2025 will be Sep 26 – 28, 2025 in Vallejo, California, US
 
 The next MicroPython Meetup in Melbourne will be on August 27th – [Meetup](https://www.meetup.com/micropython-meetup/events). You can see recordings of previous meetings on [YouTube](https://www.youtube.com/@MicroPythonOfficial). 
 
+[![2025 Hackaday Superconference](../assets/2025mmdd/super25.jpg)](https://www.eventbrite.com/e/2025-hackaday-superconference-tickets-1505260116529)
+
+The Hackaday Superconference is back! Join this global conference of hardware hackers, makers, and tech enthusiasts this Oct 31st - Nov 2nd in Pasadena, California - [Eventbrite](https://www.eventbrite.com/e/2025-hackaday-superconference-tickets-1505260116529).
+
 [![PyLadiesCon](../assets/2025mmdd/pyladies25.jpg)](https://conference.pyladies.com/2025-pyladiescon-is-back/)
 
 PyLadiesCon returns December 5–7, 2025. 100% online conference designed for our global community. Talks, workshops, panels, and community fun – [PyLadies](https://conference.pyladies.com/2025-pyladiescon-is-back/).
