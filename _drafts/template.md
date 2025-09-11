@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2025-09-15 07:00:00 -0800
+date: 2025-09-22 07:00:00 -0800
 categories: weekly
 ---
 
@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Last changed: September 5 - event tweak
+Last changed: September 11 - event tweak
 
 News Sources
 
@@ -308,14 +308,6 @@ text.
 
 ## Upcoming Events
 
-[![KiCad Conferences](../assets/2025mmdd/2025mmddkicon.jpg)](https://kicon.kicad.org/)
-
-KiCad conferences (KiCon) to be held this year include 19 - 20 Sept 2024 in Bochum, Germany, and 14 - 15 November, 2025 in Shenzhen, China - [KiCad](https://kicon.kicad.org/).
-
-[![PyCon UK 2025](../assets/2025mmdd/pyconuk25.jpg)](https://2025.pyconuk.org/)
-
-PyCon UK will be at CONTACT in Manchester from Friday 19th September to Monday 22nd September 2025 - [PyCon UK 2025](https://2025.pyconuk.org/).
-
 [![MicroPython Meetup](../assets/2025mmdd/2025mmddmp.png)](https://www.meetup.com/MicroPython-Meetup/)
 
 The next MicroPython Meetup in Melbourne will be on September 24th – [Meetup](https://www.meetup.com/micropython-meetup/events). You can see recordings of previous meetings on [YouTube](https://www.youtube.com/@MicroPythonOfficial). 
@@ -327,6 +319,10 @@ Maker Faire Bay Area 2025 will be Sep 26 – 28, 2025 in Vallejo, California, US
 [![2025 Hackaday Superconference](../assets/2025mmdd/super25.jpg)](https://www.eventbrite.com/e/2025-hackaday-superconference-tickets-1505260116529)
 
 The Hackaday Superconference is back! Join this global conference of hardware hackers, makers, and tech enthusiasts this Oct 31st - Nov 2nd in Pasadena, California - [Eventbrite](https://www.eventbrite.com/e/2025-hackaday-superconference-tickets-1505260116529).
+
+[![KiCad Conference](../assets/2025mmdd/2025mmddkicon.jpg)](https://kicon.kicad.org/)
+
+The final KiCad conference (KiCon) will be 15 November, 2025 in Shenzhen, China - [KiCad](https://kicon.kicad.org/).
 
 [![PyLadiesCon](../assets/2025mmdd/pyladies25.jpg)](https://conference.pyladies.com/2025-pyladiescon-is-back/)
 
