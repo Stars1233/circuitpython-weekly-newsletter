@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2025-09-29 07:00:00 -0800
+date: 2025-10-06 07:00:00 -0800
 categories: weekly
 ---
 
