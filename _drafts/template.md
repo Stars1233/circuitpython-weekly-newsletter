@@ -326,7 +326,10 @@ PyLadiesCon returns December 5–7, 2025. 100% online conference designed for ou
 
 **Coming in 2026**
 
+* PyCascades 2026 will be 20 March 2026 – 21 March 2026 in Vancouver, British Columbia, Canada
+* PyCon DE & PyData 2026 will be 13 April 2026 – 17 April 2026 in Darmstadt, Germany
 * The Open Source Hardware Association Open Hardware Summit is coming to Berlin, Germany on May 23rd and 24th, 2025.
+* PyCon AU 2026 will be 26 Aug. 2026 – 30 Aug. 2026 in Brisbane, Australia
 
 **Send Your Events In**
 
