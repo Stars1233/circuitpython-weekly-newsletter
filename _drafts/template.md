@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2025-11-03 07:00:00 -0800
+date: 2025-11-10 07:00:00 -0800
 categories: weekly
 ---
 
@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Last changed: October 24 - simplified contributing per Dan
+Last changed: October 31 - add 2026 event bullets
 
 News Sources
 
@@ -323,6 +323,10 @@ The final KiCad conference (KiCon) will be 15 November, 2025 in Shenzhen, China 
 [![PyLadiesCon](../assets/2025mmdd/pyladies25.jpg)](https://conference.pyladies.com/2025-pyladiescon-is-back/)
 
 PyLadiesCon returns December 5–7, 2025. 100% online conference designed for our global community. Talks, workshops, panels, and community fun – [PyLadies](https://conference.pyladies.com/2025-pyladiescon-is-back/).
+
+**Coming in 2026**
+
+* The Open Source Hardware Association Open Hardware Summit is coming to Berlin, Germany on May 23rd and 24th, 2025.
 
 **Send Your Events In**
 
