@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Last changed: October 31 - add 2026 event bullets
+Last changed: November 7 - change MP meetup
 
 News Sources
 
@@ -34,6 +34,7 @@ News Sources
 - Tom's Hardware: [CircuitPython](https://www.tomshardware.com/search?searchTerm=circuitpython&articleType=all&sortBy=publishedDate) and [MicroPython](https://www.tomshardware.com/search?searchTerm=micropython&articleType=all&sortBy=publishedDate) and [Raspberry Pi](https://www.tomshardware.com/search?searchTerm=raspberry%20pi&articleType=all&sortBy=publishedDate)
 - [hackaday.io newest projects MicroPython](https://hackaday.io/projects?tag=micropython&sort=date) and [CircuitPython](https://hackaday.io/projects?tag=circuitpython&sort=date)
 - hackaday.io - [CircuitPython](https://hackaday.io/search?term=circuitpython) and [MicroPython](https://hackaday.io/search?term=micropython)
+- [MicroPython Meeting](https://luma.com/micropython?k=c)
 
 View this email in your browser. **Warning: Flashing Imagery**
 
@@ -308,17 +309,13 @@ text.
 
 ## Upcoming Events
 
-[![MicroPython Meetup](../assets/2025mmdd/2025mmddmp.png)](https://www.meetup.com/MicroPython-Meetup/)
-
-The next MicroPython Meetup in Melbourne will be on October 22th – [Meetup](https://www.meetup.com/micropython-meetup/events). You can see recordings of previous meetings on [YouTube](https://www.youtube.com/@MicroPythonOfficial). 
-
-[![2025 Hackaday Superconference](../assets/2025mmdd/super25.jpg)](https://www.eventbrite.com/e/2025-hackaday-superconference-tickets-1505260116529)
-
-The Hackaday Superconference is back! Join this global conference of hardware hackers, makers, and tech enthusiasts this Oct 31st - Nov 2nd in Pasadena, California - [Eventbrite](https://www.eventbrite.com/e/2025-hackaday-superconference-tickets-1505260116529).
-
 [![KiCad Conference](../assets/2025mmdd/2025mmddkicon.jpg)](https://kicon.kicad.org/)
 
 The final KiCad conference (KiCon) will be 15 November, 2025 in Shenzhen, China - [KiCad](https://kicon.kicad.org/).
+
+[![MicroPython Meetup](../assets/2025mmdd/2025mmddmp.png)](https://luma.com/micropython?k=c)
+
+The next MicroPython Meetup in Melbourne will be on November 26th – [Luma](https://luma.com/r0rq9pl4). You can see recordings of previous meetings on [YouTube](https://www.youtube.com/@MicroPythonOfficial). 
 
 [![PyLadiesCon](../assets/2025mmdd/pyladies25.jpg)](https://conference.pyladies.com/2025-pyladiescon-is-back/)
 
