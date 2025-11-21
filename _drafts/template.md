@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Last changed: November 13 - add Pi foundation as a source
+Last changed: November 21 - add Bluesky search and remove one event
 
 News Sources
 
