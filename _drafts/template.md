@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2025-12-01 07:00:00 -0800
+date: 2025-12-15 07:00:00 -0800
 categories: weekly
 ---
 
@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Last changed: November 21 - add Bluesky search and remove one event
+Last changed: December 5 - tweak events
 
 News Sources
 
@@ -310,13 +310,11 @@ text.
 
 ## Upcoming Events
 
+Note that in December there are not many scheduled meetings due to the holidays.
+
 [![MicroPython Meetup](../assets/2025mmdd/2025mmddmp.png)](https://luma.com/micropython?k=c)
 
 The next MicroPython Meetup in Melbourne will be on November 26th – [Luma](https://luma.com/r0rq9pl4). You can see recordings of previous meetings on [YouTube](https://www.youtube.com/@MicroPythonOfficial). 
-
-[![PyLadiesCon](../assets/2025mmdd/pyladies25.jpg)](https://conference.pyladies.com/2025-pyladiescon-is-back/)
-
-PyLadiesCon returns December 5–7, 2025. It is a 100% online conference designed for our global community. There will be talks, workshops, panels, and community fun – [PyLadies](https://conference.pyladies.com/2025-pyladiescon-is-back/).
 
 **Coming in 2026**
 
