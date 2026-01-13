@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2026-01-19 07:00:00 -0800
+date: 2026-01-26 07:00:00 -0800
 categories: weekly
 ---
 
@@ -9,7 +9,7 @@ categories: weekly
 - [ ] change date
 - [ ] update title
 - [ ] Feature story
-- [ ] Update [![](../assets/2025mmdd/)]() for images
+- [ ] Update [![](../assets/2026mmdd/)]() for images
 - [ ] Update ICYDNCI
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
@@ -45,49 +45,49 @@ We're on [Discord](https://discord.gg/HYqvREz), [Twitter/X](https://twitter.com/
 
 ## Headline
 
-[![title](../assets/2025mmdd/2025mmdd-name.jpg)](url)
+[![title](../assets/2026mmdd/2026mmdd-name.jpg)](url)
 
 text - [site](url).
 
 ## Feature
 
-[![title](../assets/2025mmdd/2025mmdd-name.jpg)](url)
+[![title](../assets/2026mmdd/2026mmdd-name.jpg)](url)
 
 text - [site](url).
 
 ## Feature
 
-[![title](../assets/2025mmdd/2025mmdd-name.jpg)](url)
+[![title](../assets/2026mmdd/2026mmdd-name.jpg)](url)
 
 text - [site](url).
 
 ## Feature
 
-[![title](../assets/2025mmdd/2025mmdd-name.jpg)](url)
+[![title](../assets/2026mmdd/2026mmdd-name.jpg)](url)
 
 text - [site](url).
 
 ## Feature
 
-[![title](../assets/2025mmdd/2025mmdd-name.jpg)](url)
+[![title](../assets/2026mmdd/2026mmdd-name.jpg)](url)
 
 text - [site](url).
 
 ## Feature
 
-[![title](../assets/2025mmdd/2025mmdd-name.jpg)](url)
+[![title](../assets/2026mmdd/2026mmdd-name.jpg)](url)
 
 text - [site](url).
 
 ## This Week's Python Streams
 
-[![Python Streams](../assets/2025mmdd/cccircuitpython.jpg)](https://circuitpython.org/)
+[![Python Streams](../assets/2026mmdd/cccircuitpython.jpg)](https://circuitpython.org/)
 
 Python on Hardware is all about building a cooperative ecosphere which allows contributions to be valued and to grow knowledge. Below are the streams within the last week focusing on the community.
 
 **CircuitPython Deep Dive Stream**
 
-[![Deep Dive](../assets/2025mmdd/2025mmdddeepdive.jpg)](link)
+[![Deep Dive](../assets/2026mmdd/2026mmdddeepdive.jpg)](link)
 
 [Last Friday](link), Tim streamed work on {subject}.
 
@@ -95,7 +95,7 @@ You can see the latest video and past videos on the Adafruit YouTube channel und
 
 **CircuitPython Parsec**
 
-[![CircuitPython Parsec](../assets/2025mmdd/2025mmddjp.jpg)](link)
+[![CircuitPython Parsec](../assets/2026mmdd/2026mmddjp.jpg)](link)
 
 John Park’s CircuitPython Parsec this week is on {subject} - [Adafruit Blog](link) and [YouTube](link).
 
@@ -107,13 +107,13 @@ CircuitPython Weekly Meeting for {date} ([notes](file)) [on YouTube](link).
 
 ## Project of the Week
 
-[![title](../assets/2025mmdd/2025mmddpotw.jpg)](url)
+[![title](../assets/2026mmdd/2026mmddpotw.jpg)](url)
 
 text - [site](url).
 
 ## Popular Last Week
 
-[![Popular Last Week](../assets/2025mmdd/2025mmddlast.jpg)](url)
+[![Popular Last Week](../assets/2026mmdd/2026mmddlast.jpg)](url)
 
 What was the most popular, most clicked link, in [last week's newsletter](newslink)? [title](url).
 
@@ -123,99 +123,99 @@ Did you know you can read past issues of this newsletter in the Adafruit Daily A
 
 [Adafruit Playground](https://adafruit-playground.com/) is a new place for the community to post their projects and other making tips/tricks/techniques. Ad-free, it's an easy way to publish your work in a safe space for free.
 
-[![title](../assets/2025mmdd/2025mmddplay1.jpg)](url)
+[![title](../assets/2026mmdd/2026mmddplay1.jpg)](url)
 
 text - [Adafruit Playground](url).
 
-[![title](../assets/2025mmdd/2025mmddplay2.jpg)](url)
+[![title](../assets/2026mmdd/2026mmddplay2.jpg)](url)
 
 text - [Adafruit Playground](url).
 
-[![title](../assets/2025mmdd/2025mmddplay3.jpg)](url)
+[![title](../assets/2026mmdd/2026mmddplay3.jpg)](url)
 
 text - [Adafruit Playground](url).
 
 ## News From Around the Web
 
-[![title](../assets/2025mmdd/2025mmdd-name.jpg)](url)
+[![title](../assets/2026mmdd/2026mmdd-name.jpg)](url)
 
 text - [site](url).
 
-[![title](../assets/2025mmdd/2025mmdd-name.jpg)](url)
+[![title](../assets/2026mmdd/2026mmdd-name.jpg)](url)
 
 text - [site](url).
 
-[![title](../assets/2025mmdd/2025mmdd-name.jpg)](url)
+[![title](../assets/2026mmdd/2026mmdd-name.jpg)](url)
 
 text - [site](url).
 
-[![title](../assets/2025mmdd/2025mmdd-name.jpg)](url)
+[![title](../assets/2026mmdd/2026mmdd-name.jpg)](url)
 
 text - [site](url).
 
-[![title](../assets/2025mmdd/2025mmdd-name.jpg)](url)
+[![title](../assets/2026mmdd/2026mmdd-name.jpg)](url)
 
 text - [site](url).
 
-[![title](../assets/2025mmdd/2025mmdd-name.jpg)](url)
+[![title](../assets/2026mmdd/2026mmdd-name.jpg)](url)
 
 text - [site](url).
 
-[![title](../assets/2025mmdd/2025mmdd-name.jpg)](url)
+[![title](../assets/2026mmdd/2026mmdd-name.jpg)](url)
 
 text - [site](url).
 
-[![title](../assets/2025mmdd/2025mmdd-name.jpg)](url)
+[![title](../assets/2026mmdd/2026mmdd-name.jpg)](url)
 
 text - [site](url).
 
-[![title](../assets/2025mmdd/2025mmdd-name.jpg)](url)
+[![title](../assets/2026mmdd/2026mmdd-name.jpg)](url)
 
 text - [site](url).
 
-[![title](../assets/2025mmdd/2025mmdd-name.jpg)](url)
+[![title](../assets/2026mmdd/2026mmdd-name.jpg)](url)
 
 text - [site](url).
 
-[![title](../assets/2025mmdd/2025mmdd-name.jpg)](url)
+[![title](../assets/2026mmdd/2026mmdd-name.jpg)](url)
 
 text - [site](url).
 
-[![title](../assets/2025mmdd/2025mmdd-name.jpg)](url)
+[![title](../assets/2026mmdd/2026mmdd-name.jpg)](url)
 
 text - [site](url).
 
-[![title](../assets/2025mmdd/2025mmdd-name.jpg)](url)
+[![title](../assets/2026mmdd/2026mmdd-name.jpg)](url)
 
 text - [site](url).
 
-[![title](../assets/2025mmdd/2025mmdd-name.jpg)](url)
+[![title](../assets/2026mmdd/2026mmdd-name.jpg)](url)
 
 text - [site](url).
 
-[![title](../assets/2025mmdd/2025mmdd-name.jpg)](url)
+[![title](../assets/2026mmdd/2026mmdd-name.jpg)](url)
 
 text - [site](url).
 
-[![title](../assets/2025mmdd/2025mmdd-name.jpg)](url)
+[![title](../assets/2026mmdd/2026mmdd-name.jpg)](url)
 
 text - [site](url).
 
-[![title](../assets/2025mmdd/2025mmdd-name.jpg)](url)
+[![title](../assets/2026mmdd/2026mmdd-name.jpg)](url)
 
 text - [site](url).
 
-[![title](../assets/2025mmdd/2025mmdd-name.jpg)](url)
+[![title](../assets/2026mmdd/2026mmdd-name.jpg)](url)
 
 text - [site](url).
 
 ## Coming Soon / New
 
-[![title](../assets/2025mmdd/2025mmddnew1.jpg)](url)
+[![title](../assets/2026mmdd/2026mmddnew1.jpg)](url)
 
 text - [site](url).
 
-[![title](../assets/2025mmdd/2025mmddnew2.jpg)](url)
+[![title](../assets/2026mmdd/2026mmddnew2.jpg)](url)
 
 text - [site](url).
 
@@ -240,7 +240,7 @@ Looking to add a new board to CircuitPython? It's highly encouraged! Adafruit ha
 
 ## New Learn Guides
 
-[![New Learn Guides](../assets/2025mmdd/2025mmddlearn.jpg)](https://learn.adafruit.com/guides/latest)
+[![New Learn Guides](../assets/2026mmdd/2026mmddlearn.jpg)](https://learn.adafruit.com/guides/latest)
 
 The Adafruit Learning System has over 3,200 free guides for learning skills and building projects including using Python.
 
@@ -256,7 +256,7 @@ The Adafruit Learning System has over 3,200 free guides for learning skills and 
 
 ## CircuitPython Libraries
 
-[![CircuitPython Libraries](../assets/2025mmdd/blinka.png)](https://circuitpython.org/libraries)
+[![CircuitPython Libraries](../assets/2026mmdd/blinka.png)](https://circuitpython.org/libraries)
 
 The CircuitPython library numbers are continually increasing, while existing ones continue to be updated. Here we provide library numbers and updates!
 
@@ -286,25 +286,25 @@ What is the team up to this week? Let’s check in:
 
 **Dan**
 
-[![Dan](../assets/2025mmdd/2025mmdddan.jpg)](https://www.circuitpython.org/)
+[![Dan](../assets/2026mmdd/2026mmdddan.jpg)](https://www.circuitpython.org/)
 
 text.
 
 **Tim**
 
-[![Tim](../assets/2025mmdd/2025mmddtim.jpg)](https://www.circuitpython.org/)
+[![Tim](../assets/2026mmdd/2026mmddtim.jpg)](https://www.circuitpython.org/)
 
 text.
 
 **Scott**
 
-[![Scott](../assets/2025mmdd/2025mmddscott.jpg)](https://www.circuitpython.org/)
+[![Scott](../assets/2026mmdd/2026mmddscott.jpg)](https://www.circuitpython.org/)
 
 text.
 
 **Liz**
 
-[![Liz](../assets/2025mmdd/2025mmddliz.jpg)](https://www.circuitpython.org/)
+[![Liz](../assets/2026mmdd/2026mmddliz.jpg)](https://www.circuitpython.org/)
 
 text.
 
@@ -312,7 +312,7 @@ text.
 
 Note that in December there are not many scheduled meetings due to the holidays.
 
-[![MicroPython Meetup](../assets/2025mmdd/2025mmddmp.png)](https://luma.com/micropython?k=c)
+[![MicroPython Meetup](../assets/2026mmdd/2026mmddmp.png)](https://luma.com/micropython?k=c)
 
 The next MicroPython Meetup in Melbourne will be on January 28th – [Luma](https://luma.com/r0rq9pl4). You can see recordings of previous meetings on [YouTube](https://www.youtube.com/@MicroPythonOfficial). 
 
@@ -322,7 +322,7 @@ PyCascades 2026 will be 20 March 2026 – 21 March 2026 in Vancouver, British Co
 
 **Other Events This Year**
 * PyCon DE & PyData 2026 will be 13 April 2026 – 17 April 2026 in Darmstadt, Germany
-* The Open Source Hardware Association Open Hardware Summit is coming to Berlin, Germany on May 23rd and 24th, 2025.
+* The Open Source Hardware Association Open Hardware Summit is coming to Berlin, Germany on May 23rd and 24th, 2026.
 * PyCon AU 2026 will be 26 Aug. 2026 – 30 Aug. 2026 in Brisbane, Australia
 
 **Send Your Events In**
@@ -333,9 +333,9 @@ If you know of virtual events or upcoming events, please let us know via email t
 
 CircuitPython's stable release is [#.#.#](https://github.com/adafruit/circuitpython/releases/latest) and its unstable release is [#.#.#-##.#](https://github.com/adafruit/circuitpython/releases). New to CircuitPython? Start with our [Welcome to CircuitPython Guide](https://learn.adafruit.com/welcome-to-circuitpython).
 
-[2025####](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases/latest) is the latest Adafruit CircuitPython library bundle.
+[2026####](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases/latest) is the latest Adafruit CircuitPython library bundle.
 
-[2025####](https://github.com/adafruit/CircuitPython_Community_Bundle/releases/latest) is the latest CircuitPython Community library bundle.
+[2026####](https://github.com/adafruit/CircuitPython_Community_Bundle/releases/latest) is the latest CircuitPython Community library bundle.
 
 [v#.#.#](https://micropython.org/download) is the latest MicroPython release. Documentation for it is [here](http://docs.micropython.org/en/latest/pyboard/).
 
@@ -345,7 +345,7 @@ CircuitPython's stable release is [#.#.#](https://github.com/adafruit/circuitpyt
 
 ## Call for Help -- Translating CircuitPython is now easier than ever
 
-[![CircuitPython translation statistics on weblate](../assets/2025mmdd/2025mmddweblate.jpg)](https://hosted.weblate.org/engage/circuitpython/)
+[![CircuitPython translation statistics on weblate](../assets/2026mmdd/2026mmddweblate.jpg)](https://hosted.weblate.org/engage/circuitpython/)
 
 One important feature of CircuitPython is translated control and error messages. With the help of fellow open source project [Weblate](https://weblate.org/), we're making it even easier to add or improve translations. 
 
@@ -353,7 +353,7 @@ Sign in with an existing account such as GitHub, Google or Facebook and start co
 
 ## NUMBER Thanks
 
-[![NUMBER THANKS](../assets/2025mmdd/39kdiscord.jpg)](https://adafru.it/discord)
+[![NUMBER THANKS](../assets/2026mmdd/39kdiscord.jpg)](https://adafru.it/discord)
 
 [![Adafruit Discord](https://discordapp.com/api/guilds/327254708534116352/embed.png?style=banner3)](https://discord.gg/adafruit)
 
@@ -361,7 +361,7 @@ The Adafruit Discord community, where we do all our CircuitPython development in
 
 ## ICYMI - In case you missed it
 
-[![ICYMI](../assets/2025mmdd/2025mmddicymi.jpg)](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXRMjM7Sm0J2Xt6H81TdDev)
+[![ICYMI](../assets/2026mmdd/2026mmddicymi.jpg)](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXRMjM7Sm0J2Xt6H81TdDev)
 
 Python on hardware is the Adafruit Python video-newsletter-podcast! The news comes from the Python community, Discord, Adafruit communities and more and is broadcast on ASK an ENGINEER Wednesdays. The complete Python on Hardware weekly videocast [playlist is here](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXRMjM7Sm0J2Xt6H81TdDev). The video podcast is on [iTunes](https://itunes.apple.com/us/podcast/python-on-hardware/id1451685192?mt=2), [YouTube](http://adafru.it/pohepisodes), [Instagram](https://www.instagram.com/adafruit/channel/)), and [XML](https://itunes.apple.com/us/podcast/python-on-hardware/id1451685192?mt=2).
 
