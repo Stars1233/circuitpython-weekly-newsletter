@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Last changed: January 9 - tweak events
+Last changed: January 15 - tweak events
 
 News Sources
 
@@ -309,8 +309,6 @@ text.
 text.
 
 ## Upcoming Events
-
-Note that in December there are not many scheduled meetings due to the holidays.
 
 [![MicroPython Meetup](../assets/2026mmdd/2026mmddmp.png)](https://luma.com/micropython?k=c)
 
