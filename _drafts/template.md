@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2026-01-26 07:00:00 -0800
+date: 2026-02-02 07:00:00 -0800
 categories: weekly
 ---
 
@@ -89,7 +89,7 @@ Python on Hardware is all about building a cooperative ecosphere which allows co
 
 [![Deep Dive](../assets/2026mmdd/2026mmdddeepdive.jpg)](link)
 
-[Last Friday](link), Tim streamed work on {subject}.
+[Last Friday](link), scott streamed work on {subject}.
 
 You can see the latest video and past videos on the Adafruit YouTube channel under the Deep Dive playlist - [YouTube](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXBHlu9msoXq2jQN4JpCk8A).
 
