@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Last changed: February 12 - ALS tweaks
+Last changed: February 27 - Events
 
 News Sources
 
