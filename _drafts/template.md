@@ -310,20 +310,20 @@ text.
 
 ## Upcoming Events
 
-[![MicroPython Meetup](../assets/2026mmdd/2026mmddmp.png)](https://luma.com/micropython?k=c)
-
-The next MicroPython Meetup in Melbourne will be on February 25th – [Luma](https://luma.com/r0rq9pl4). You can see recordings of previous meetings on [YouTube](https://www.youtube.com/@MicroPythonOfficial). 
-
 [![PyCascades 2026](../assets/2026mmdd/pycas26.jpg)](https://2026.pycascades.com/)
 
 PyCascades 2026 will be 20 March 2026 – 21 March 2026 in Vancouver, British Columbia, Canada - [PyCascades 2026](https://2026.pycascades.com/).
 
+[![MicroPython Meetup](../assets/2026mmdd/2026mmddmp.png)](https://luma.com/micropython?k=c)
+
+The next MicroPython Meetup in Melbourne will be on March 25th – [Luma](https://luma.com/r0rq9pl4). You can see recordings of previous meetings on [YouTube](https://www.youtube.com/@MicroPythonOfficial). 
+
 **Other Events This Year**
 * PyCon DE & PyData 2026 will be 13 April 2026 – 17 April 2026 in Darmstadt, Germany
 * The Open Source Hardware Association Open Hardware Summit is coming to Berlin, Germany on May 23rd and 24th, 2026.
+* EuroPython 2026 is coming to Kraków, Poland 13-19 July, 2026.
+* PyOhio 2026 is from 25 July through 26 July, 2026 this year in Cleveland, USA.
 * PyCon AU 2026 will be 26 Aug. 2026 – 30 Aug. 2026 in Brisbane, Australia
-
-**Send Your Events In**
 
 If you know of virtual events or upcoming events, please let us know via email to cpnews(at)adafruit(dot)com.
 
