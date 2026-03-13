@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2026-03-16 07:00:00 -0800
+date: 2026-03-23 07:00:00 -0800
 categories: weekly
 ---
 
@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Last changed: February 27 - Events
+Last changed: March 13 - links in events and tweak YouTube links for date sort
 
 News Sources
 
