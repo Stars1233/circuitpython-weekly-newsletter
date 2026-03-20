@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Last changed: March 13 - links in events and tweak YouTube links for date sort
+Last changed: March 20 - links in events and tweak YouTube links for date sort
 
 News Sources
 
@@ -113,9 +113,9 @@ text - [site](url).
 
 ## Popular Last Week
 
-[![Popular Last Week](../assets/2026mmdd/2026mmddlast.jpg)](url)
+[![Popular Last Week](../assets/2026mmdd/2026mmddlast.jpg)]()
 
-What was the most popular, most clicked link, in [last week's newsletter](newslink)? [title](url).
+What was the most popular, most clicked link, in [last week's newsletter](newslink)? []().
 
 Did you know you can read past issues of this newsletter in the Adafruit Daily Archive? [Check it out](https://www.adafruitdaily.com/category/circuitpython/).
 
@@ -310,16 +310,16 @@ text.
 
 ## Upcoming Events
 
-[![PyCascades 2026](../assets/2026mmdd/pycas26.jpg)](https://2026.pycascades.com/)
-
-PyCascades 2026 will be 20 March 2026 – 21 March 2026 in Vancouver, British Columbia, Canada - [PyCascades 2026](https://2026.pycascades.com/).
-
 [![MicroPython Meetup](../assets/2026mmdd/2026mmddmp.png)](https://luma.com/micropython?k=c)
 
 The next MicroPython Meetup in Melbourne will be on March 25th – [Luma](https://luma.com/r0rq9pl4). You can see recordings of previous meetings on [YouTube](https://www.youtube.com/@MicroPythonOfficial). 
 
+[![PyCon DE & PyData 2026](../assets/20260323/pyconde.jpg)](https://2026.pycon.de/)
+
+[PyCon DE & PyData 2026](https://2026.pycon.de/) will be 13 April 2026 – 17 April 2026 in Darmstadt, Germany
+
 **Other Events This Year**
-* [PyCon DE & PyData 2026](https://2026.pycon.de/) will be 13 April 2026 – 17 April 2026 in Darmstadt, Germany
+
 * [PyCon US](https://us.pycon.org/2026/) is May 13 - May 19, 2026 in Long Beach, California
 * [The Open Source Hardware Association Open Hardware Summit](https://oshwa.org/announcements/the-2026-open-hardware-summit-schedule-is-out/) is coming to Berlin, Germany on May 23rd and 24th, 2026.
 * [EuroPython 2026](https://ep2026.europython.eu/) is coming to Kraków, Poland 13-19 July, 2026.
