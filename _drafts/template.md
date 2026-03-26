@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Last changed: March 20 - links in events and tweak YouTube links for date sort
+Last changed: March 26 - Add Tim Deep Dive
 
 News Sources
 
@@ -100,6 +100,14 @@ You can see the latest video and past videos on the Adafruit YouTube channel und
 John Park’s CircuitPython Parsec this week is on {subject} - [Adafruit Blog](link) and [YouTube](link).
 
 Catch all the episodes in the [YouTube playlist](https://www.youtube.com/playlist?list=PLjF7R1fz_OOWFqZfqW9jlvQSIUmwn9lWr).
+
+**Deep Dive with Tim**
+
+[![Deep Dive with Tim](../assets/2026mmdd/2026mmddtimdive.jpg)](url)
+
+[Last week](), Tim streamed work on .
+
+You can see the latest video and past videos on the Adafruit YouTube channel under the Deep Dive playlist - [YouTube](https://www.youtube.com/playlist?list=PLjF7R1fz_OOWFqZfqW9jlvQSIUmwn9lWr).
 
 **CircuitPython Weekly Meeting**
 
