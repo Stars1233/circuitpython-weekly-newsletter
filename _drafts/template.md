@@ -320,7 +320,7 @@ text.
 
 [![MicroPython Meetup](../assets/2026mmdd/2026mmddmp.png)](https://luma.com/micropython?k=c)
 
-The next MicroPython Meetup in Melbourne will be on March 25th – [Luma](https://luma.com/r0rq9pl4). You can see recordings of previous meetings on [YouTube](https://www.youtube.com/@MicroPythonOfficial). 
+The next MicroPython Meetup in Melbourne will be on April 22 – [Luma](https://luma.com/r0rq9pl4). You can see recordings of previous meetings on [YouTube](https://www.youtube.com/@MicroPythonOfficial). 
 
 [![PyCon DE & PyData 2026](../assets/20260323/pyconde.jpg)](https://2026.pycon.de/)
 
