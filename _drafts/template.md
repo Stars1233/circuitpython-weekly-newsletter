@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Last changed: March 26 - Add Tim Deep Dive and HOPE
+Last changed: April 3 MP Meetup April
 
 News Sources
 
