@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Last changed: April 3 MP Meetup April
+Last changed: April 16 meeting update
 
 News Sources
 
@@ -322,9 +322,9 @@ text.
 
 The next MicroPython Meetup in Melbourne will be on April 22 – [Luma](https://luma.com/r0rq9pl4). You can see recordings of previous meetings on [YouTube](https://www.youtube.com/@MicroPythonOfficial). 
 
-[![PyCon DE & PyData 2026](../assets/20260323/pyconde.jpg)](https://2026.pycon.de/)
+[![PyCon US](../assets/2026mmdd/pyconus26.jpg)](https://us.pycon.org/2026/)
 
-[PyCon DE & PyData 2026](https://2026.pycon.de/) will be 13 April 2026 – 17 April 2026 in Darmstadt, Germany
+[PyCon US](https://us.pycon.org/2026/) is May 13 - May 19, 2026 in Long Beach, California
 
 **Other Events This Year**
 
