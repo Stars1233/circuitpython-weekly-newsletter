@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2026-04-27 07:00:00 -0800
+date: 2026-05-04 07:00:00 -0800
 categories: weekly
 ---
 
@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Last changed: April 16 meeting update
+Last changed: April 24, 2026 copyedits
 
 News Sources
 
@@ -87,17 +87,17 @@ Python on Hardware is all about building a cooperative ecosphere which allows co
 
 **CircuitPython Deep Dive Stream**
 
-[![Deep Dive](../assets/2026mmdd/2026mmdddeepdive.jpg)](link)
+[![Deep Dive](../assets/2026mmdd/2026mmdddeepdive.jpg)]()
 
-[Last Friday](link), Scott streamed work on {subject}.
+[Last Friday](), Scott streamed work on .
 
 You can see the latest video and past videos on the Adafruit YouTube channel under the Deep Dive playlist - [YouTube](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXBHlu9msoXq2jQN4JpCk8A).
 
 **CircuitPython Parsec**
 
-[![CircuitPython Parsec](../assets/2026mmdd/2026mmddjp.jpg)](link)
+[![CircuitPython Parsec](../assets/2026mmdd/2026mmddjp.jpg)]()
 
-John Park’s CircuitPython Parsec this week is on {subject} - [Adafruit Blog](link) and [YouTube](link).
+John Park’s CircuitPython Parsec this week is on  - [Adafruit Blog]() and [YouTube]().
 
 Catch all the episodes in the [YouTube playlist](https://www.youtube.com/playlist?list=PLjF7R1fz_OOWFqZfqW9jlvQSIUmwn9lWr).
 
@@ -113,7 +113,7 @@ You can see the latest video and past videos on the Adafruit YouTube channel und
 
 CircuitPython Weekly Meeting for {date} ([notes](file)) [on YouTube](link).
 
-## Project of the Week
+## Project of the Week: 
 
 [![title](../assets/2026mmdd/2026mmddpotw.jpg)](url)
 
@@ -318,17 +318,16 @@ text.
 
 ## Upcoming Events
 
-[![MicroPython Meetup](../assets/2026mmdd/2026mmddmp.png)](https://luma.com/micropython?k=c)
-
-The next MicroPython Meetup in Melbourne will be on April 22 – [Luma](https://luma.com/r0rq9pl4). You can see recordings of previous meetings on [YouTube](https://www.youtube.com/@MicroPythonOfficial). 
-
 [![PyCon US](../assets/2026mmdd/pyconus26.jpg)](https://us.pycon.org/2026/)
 
 [PyCon US](https://us.pycon.org/2026/) is May 13 - May 19, 2026 in Long Beach, California
 
+[![MicroPython Meetup](../assets/2026mmdd/2026mmddmp.png)](https://luma.com/micropython)
+
+The next MicroPython Meetup in Melbourne will be on May 27 – [Luma](https://luma.com/micropython). You can see recordings of previous meetings on [YouTube](https://www.youtube.com/@MicroPythonOfficial). 
+
 **Other Events This Year**
 
-* [PyCon US](https://us.pycon.org/2026/) is May 13 - May 19, 2026 in Long Beach, California
 * [The Open Source Hardware Association Open Hardware Summit](https://oshwa.org/announcements/the-2026-open-hardware-summit-schedule-is-out/) is coming to Berlin, Germany on May 23rd and 24th, 2026.
 * [EuroPython 2026](https://ep2026.europython.eu/) is coming to Kraków, Poland 13-19 July, 2026.
 * [PyOhio 2026](https://www.pyohio.org/2026/) is from 25 July through 26 July, 2026 this year in Cleveland, USA.
@@ -371,7 +370,7 @@ The Adafruit Discord community, where we do all our CircuitPython development in
 
 [![ICYMI](../assets/2026mmdd/2026mmddicymi.jpg)](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXRMjM7Sm0J2Xt6H81TdDev)
 
-Python on hardware is the Adafruit Python video-newsletter-podcast! The news comes from the Python community, Discord, Adafruit communities and more and is broadcast on ASK an ENGINEER Wednesdays. The complete Python on Hardware weekly videocast [playlist is here](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXRMjM7Sm0J2Xt6H81TdDev). The video podcast is on [iTunes](https://itunes.apple.com/us/podcast/python-on-hardware/id1451685192?mt=2), [YouTube](http://adafru.it/pohepisodes), [Instagram](https://www.instagram.com/adafruit/channel/)), and [XML](https://itunes.apple.com/us/podcast/python-on-hardware/id1451685192?mt=2).
+Python on hardware is the Adafruit Python video-newsletter-podcast! The news comes from the Python community, Discord, Adafruit communities and more and is broadcast on ASK an ENGINEER Wednesdays. The complete Python on Hardware weekly videocast [playlist is here](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXRMjM7Sm0J2Xt6H81TdDev). The video podcast is on [iTunes](https://itunes.apple.com/us/podcast/python-on-hardware/id1451685192?mt=2), [YouTube](http://adafru.it/pohepisodes), [Instagram](https://www.instagram.com/adafruit/channel/), and [XML](https://itunes.apple.com/us/podcast/python-on-hardware/id1451685192?mt=2).
 
 [The weekly community chat on Adafruit Discord server CircuitPython channel - Audio / Podcast edition](https://itunes.apple.com/us/podcast/circuitpython-weekly-meeting/id1451685016) - Audio from the Discord chat space for CircuitPython, meetings are usually Mondays at 2pm ET, this is the audio version on [iTunes](https://itunes.apple.com/us/podcast/circuitpython-weekly-meeting/id1451685016), Pocket Casts, [Spotify](https://adafru.it/spotify), and [XML feed](https://adafruit-podcasts.s3.amazonaws.com/circuitpython_weekly_meeting/audio-podcast.xml).
 
