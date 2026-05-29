@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured story title here!"
-date: 2026-06-01 07:00:00 -0800
+date: 2026-06-08 07:00:00 -0800
 categories: weekly
 ---
 
@@ -14,7 +14,7 @@ categories: weekly
 - [ ] All images 550w max only
 - [ ] Link "View this email in your browser."
 
-Last changed: April 24, 2026 copyedits
+Last changed: May 29, 2026 copyedits
 
 News Sources
 
@@ -318,13 +318,13 @@ text.
 
 ## Upcoming Events
 
-[![PyCon US](../assets/2026mmdd/pyconus26.jpg)](https://us.pycon.org/2026/)
-
-[PyCon US](https://us.pycon.org/2026/) is May 13 - May 19, 2026 in Long Beach, California
-
 [![MicroPython Meetup](../assets/2026mmdd/2026mmddmp.png)](https://luma.com/micropython)
 
-The next MicroPython Meetup in Melbourne will be on May 27 – [Luma](https://luma.com/micropython). You can see recordings of previous meetings on [YouTube](https://www.youtube.com/@MicroPythonOfficial). 
+The next MicroPython Meetup in Melbourne will be on June 24 – [Luma](https://luma.com/micropython). You can see recordings of previous meetings on [YouTube](https://www.youtube.com/@MicroPythonOfficial). 
+
+[![EuroPython 2026](../assets/2026mmdd/eupy26.jpg)](https://ep2026.europython.eu/)
+
+[EuroPython 2026](https://ep2026.europython.eu/) is coming to Kraków, Poland 13-19 July, 2026. Join thousands of Python enthusiasts for a week of learning, networking, and community.
 
 **Other Events This Year**
 
